@@ -1,0 +1,94 @@
+<html>
+    <head>
+        <title>Filmes</title>
+
+            <style> body{background-color: rgb(255, 255, 230);}
+            </style>
+            <style>
+                body {
+                    text-align: justify;
+                    padding: 20px;
+                }       
+          
+            </style>
+
+           
+    </head>
+    <header>
+       <p><h1> Meu Top 5 Filmes</h1></p>
+       <h5>Por Jucilene </h>
+    </header>
+
+        <body>
+            <p>Quem aí gsota de filmes?<br/>
+            Eu adoro. Tenho uma lista enorme para indicação. <br/>
+        Hoje vou mostrar aqui o meu Top 5:</p>
+            <br/>
+           <b></b> <ol type="1">
+                <li><h3>A espera de um Milagre</h3></li>
+                <p>Um carcereiro tem um relacionamento incomum e <br/>
+                    comovente com um preso que está no corredor na morte:<br/>
+                      Coffey, um negro enorme, condenado por ter matado <br/>
+                      brutalmente duas gêmeas de nove anos. <br/>
+                      Ele tem tamanho e força para matar 
+                      qualquer um, <br/>mas seu comportamento é completamente<br/>
+                      oposto à sua aparência.</p><br/>
+                <img src="C:\Users\sjbar\OneDrive\Documentos\Temp\Fia\Bootcamp Soul Code\HTML\imagnes\milagre.png" alt="milagre"style="height: 350px;">
+                <br/><br/>
+                
+                
+                <li><h2>A Lista de Schindler</h2></li>
+                <p>O alemão Oskar Schindler viu na mão de obra judia uma <br/>
+                solução barata e viável para lucrar com negócios durante a <br/>
+                guerra. Com sua forte influência dentro do partido nazista,<br/>
+                foi fácil conseguir as autorizações e abrir uma fábrica.<br/>
+                </p><br/>
+                <img src="C:\Users\sjbar\OneDrive\Documentos\Temp\Fia\Bootcamp Soul Code\HTML\imagnes\shindler.webp" alt="schidler"style="height: 350px;">
+                <br/><br/>
+                
+                
+                <li><h5>12 Anos de Escravidão</h5></li>
+                <p>Em 1841, Solomon Northup é um negro livre, que vive em <br/>
+                paz ao lado da esposa e filhos. Um dia, após aceitar um <br/>
+                trabalho que o leva a outra cidade, ele é sequestrado e<br/>
+                acorrentado. Vendido como se fosse um escravo, Solomon <br/>
+                precisa superar humilhações físicas e emocionais para <br/>
+                sobreviver.
+                </p><br/>
+                <img src="C:\Users\sjbar\OneDrive\Documentos\Temp\Fia\Bootcamp Soul Code\HTML\imagnes\escravidão.jpg" alt="escravidão" style="height: 350px;">
+                <br/><br/>
+                
+                
+                <li><h2>Efeito Borboleta</h2></li>
+                <p>O estudante universitário Evan Treborn está aflito com <br/>
+                 dores de cabeça tão fortes que frequentemente desmaia. <br/>
+                 Enquanto está inconsciente, Evan pode viajar de volta no <br/>
+                 tempo para momentos de dificuldades na infância.
+                </p><br/>
+                <img src="C:\Users\sjbar\OneDrive\Documentos\Temp\Fia\Bootcamp Soul Code\HTML\imagnes\borboleta.jpeg" alt="borboleta" style="height: 350px;">
+                <br/><br/>
+                
+                <li><h1>Amistad</h1></li>
+                <p>Uma representação épica de uma batalha sobre um navio <br/>
+                cheio de escravos que se revoltam contra seus captadores<br/>
+                em alto mar e ancoram em solo americano. Inicialmente, o <br/>
+                argumento nas cortes era sobre o problema da propriedade <br/>
+                e posse. Gradualmente, os advogados de defesa entendem <br/>
+                que a humanidade dos homens vira mercadoria através <br/>
+                da escravidão.
+                </p><br/>
+                <img src="C:\Users\sjbar\OneDrive\Documentos\Temp\Fia\Bootcamp Soul Code\HTML\imagnes\amistad.jpeg" alt="amistad" style="height: 350px;">
+                <br/><br/>
+                
+        </body>
+
+        <footer>
+
+           <p> Por <b>Jucilene Lemos Barboza</b></p>
+           Contato pelo
+           <a href="https://www.linkedin.com/in/jucilene-lemos-barboza-b312ab103/" target="_blank"> LinkedIn</a>
+           
+        </footer>
+   
+
+</html>
